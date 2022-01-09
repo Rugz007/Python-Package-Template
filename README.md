@@ -3,7 +3,7 @@
 
 A template project for creating python packages which also include a sub-package for understanding how to work around that.
 
-  
+Make sure your main folder and the folder inside it has the same name
 
 To install this package on your local machine, just open the folder in your terminal and write
 
